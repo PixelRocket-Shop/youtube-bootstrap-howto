@@ -1,0 +1,2 @@
+// import Bootstrap
+import 'bootstrap';
