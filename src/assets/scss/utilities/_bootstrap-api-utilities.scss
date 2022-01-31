@@ -1,0 +1,20 @@
+// Import Bootstrap Utils first
+// otherwise our amends aren't added correctly
+@import '~bootstrap/scss/utilities';
+
+
+$utilities: map-merge(
+  $utilities,
+  (
+
+    /* example of adding new util */
+    // "cursor": (
+    //   property: cursor,
+    //   values: (
+    //     default: default,
+    //     pointer: pointer
+    //   )
+    // ),
+           
+  )
+)
